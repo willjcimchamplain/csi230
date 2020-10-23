@@ -1,0 +1,36 @@
+Notes for Project 2
+
+Internet resources used:
+
+Username extraction: 
+  https://stackoverflow.com/questions/4168371/how-can-i-remove-all-text-after-a-character-in-bash
+  I used this stack overflow post for a refresher on how to use the cut command
+
+Password generation: 
+  https://www.youtube.com/watch?v=bwJJ-O3L5_0 
+  I actually got the password code from a user Jakub Spunar in the comments, the line creates a randomly generated 16 character password
+
+Password assignment:
+  https://www.systutorials.com/changing-linux-users-password-in-one-command-line/
+  I solved issues regarding password assignment using with the help of this website
+  
+User assignment to shell:
+  https://help.ubuntu.com/community/AddUsersHowto
+  I used this website for help in assigning bash as the user's default shell
+
+Email sendage:
+  https://linuxhint.com/bash_script_send_email/
+  I used this website to figure out how to send emails in bash using the mail command
+  
+  https://stackoverflow.com/questions/12614573/how-to-insert-new-line-in-the-email-using-linux-mail-command
+  And I used this stackoverflow post to remind myself what -e does
+  
+Chage:
+  https://www.interserver.net/tips/kb/force-linux-user-change-password/
+  I used this website to figure out how to use the chage command
+
+Misc.:
+  https://www.tecmint.com/delete-remove-a-user-account-with-home-directory-in-linux/
+  I used this website to figure out how to remove home directories in linux 
+  
+  
