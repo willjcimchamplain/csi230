@@ -1,5 +1,23 @@
 #!/bin/bash
 
+#Author: Will Im
+#
+#Class: CSI 230
+#Assignment: Project 2
+#Due Date: October 22, 2020
+#
+#Description:
+#	This program takes emails from a text file, and automatically creates accounts with passwords
+#	The program then sends emails to the users with their credentials 
+#	All resources used for help are credited in the project2Notes.txt file in my github
+#
+#Certification of Authenticity:
+#	I certify that this is entirely my own work, except where I have given fully - documented references to the work of others.
+#	I understand the definition and consequences of plagiarism and acknowledge that the assessor of this assignment may, for the purpose of assessing this assignment:
+#	-Reproduce this assignment and provide a copy to another member of the adacemic staff and / or 
+#	-Communicate a copy of this assignment to a plagiarism checking service (which may then retain a copy of this assignment on its database for the purpose of future plagiarism checking)
+ 
+
 # Declares variables
 filename="emails.txt"
 emails=`cat $filename`
