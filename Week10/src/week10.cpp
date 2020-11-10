@@ -1,3 +1,15 @@
+/**
+@file week10.cpp
+@brief Week 10, C++ Review and Warmup 
+@author Will Im
+@assignment Lab 10.1
+@date Nov 9, 2020
+@credits
+    Devin Paden
+    https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi
+    https://stackoverflow.com/questions/16931770/makefile4-missing-separator-stop
+/*
+
 #include "util.h"
 
 main(){
