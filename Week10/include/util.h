@@ -21,10 +21,12 @@
 
 using namespace std;
 
+// Declares constant variables
 const int MAX = 5;
 
-string randomElement(vector <string> &vectStr);
-string camelCase(string str);
-double sum(vector <double> &vectDoub);
+// Declares functions
 double avg(vector <double> &vectDoub);
 double lowest(vector <double> &vectDoub);
+double sum(vector <double> &vectDoub);
+string camelCase(string str);
+string randomElement(vector <string> &vectStr);
